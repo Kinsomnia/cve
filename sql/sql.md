@@ -5,7 +5,7 @@
 + https://code-projects.org/blood-bank-management-system-in-php-with-source-code/
 # AFFECTED AND/OR FIXED VERSION(S)
 ## submitter
-+ Lanxiy7th
++ kinsomnia
 ## Vulnerable File
 + login.php
 ## VERSION(S)

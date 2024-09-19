@@ -5,7 +5,7 @@
 + https://itsourcecode.com/free-projects/php-project/online-book-store-project-in-php-with-source-code/
 # AFFECTED AND/OR FIXED VERSION(S)
 ## submitter
-+ Lanxiy7th
++ kinsomnia
 ## Vulnerable File
 + admin_add.php
 ## VERSION(S)
